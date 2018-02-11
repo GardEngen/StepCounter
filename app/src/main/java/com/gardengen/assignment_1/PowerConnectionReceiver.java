@@ -3,13 +3,10 @@ package com.gardengen.assignment_1;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
-import android.widget.Toast;
 
-import com.google.firebase.database.DatabaseReference;
-import com.google.firebase.database.FirebaseDatabase;
+import com.gardengen.assignment_1.interfaces.OnReceiverEvent;
 
 import org.greenrobot.eventbus.EventBus;
-import org.greenrobot.eventbus.Subscribe;
 
 ///**
 // * Created by Gard on 25.01.2018.

@@ -1,5 +1,7 @@
 package com.gardengen.assignment_1;
 
+import com.gardengen.assignment_1.interfaces.StepListener;
+
 /**
  * Created by Gard on 27.01.2018.
  */
