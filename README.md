@@ -37,7 +37,7 @@ Navigate to Database -> RULES and set read/write to true.
 Now will the database store every new step count sendt from the Android application.
 
 ### Setup Python project
-The first thing you have to do is to pip install all the project dependencies in your environment. Navigate to the project directory and use the following command:
+The first thing you have to do is to pip install all the project dependencies to your python environment. Navigate to the project directory and use the following command:
 ```
 pip install -r requirements.txt
 ```
