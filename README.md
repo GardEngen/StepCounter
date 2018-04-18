@@ -16,7 +16,7 @@ In order for this to work, you have to create a new Google Firebase project in t
 ```
 https://console.firebase.google.com/ 
 ```
-The next stap is to connect Firebase and the Andorid application. Click on **Add Firebase to your Android app**. In order to complete this connection you have to provide the unique package name of the Android application. It's located in the build.gradle as applicationId. The package name for this project:
+The next step is to connect Firebase and the Andorid application. Click on **Add Firebase to your Android app**. In order to complete this connection you have to provide the unique package name of the Android application. It's located in the build.gradle as applicationId. The package name for this project:
 ```
 com.gardengen.assignment_1
 ```
