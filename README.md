@@ -2,7 +2,7 @@
 
 This project contains a simple Android application for tracking your steps 
 and a Python program for plotting a graph of your progress.
-When everything is up and running will the Android application update the graf on the fly. 
+When everything is up and running will the Android application update the graph on the fly. 
 The application will send your step count progress for each you connect the phone to power.
 The graph will automatically show the latest results.
 
